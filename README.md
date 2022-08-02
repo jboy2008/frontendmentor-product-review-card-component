@@ -1,1 +1,1 @@
-# frontendmentor-productreviewcardcomponent
+# frontendmentor-product-review-card-component
