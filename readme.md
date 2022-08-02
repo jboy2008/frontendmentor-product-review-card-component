@@ -21,8 +21,8 @@ For Mobile:
 ![](screenshot/mobile.jfif)
 
 ## Links
-- [Link to Front End Mentor Challenge ]()
-- [Link to the live site using Github Pages]()
+- [Link to Front End Mentor Challenge ](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub/product-preview-card-component-XYOiYhUcXV)
+- [Link to the live site using Github Pages](https://jboy2008.github.io/frontendmentor-product-review-card-component/index.html)
 
 ## Built With 
 
